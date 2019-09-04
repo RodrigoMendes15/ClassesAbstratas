@@ -1,0 +1,11 @@
+D:\Udemy\Seção 10 - Herança e Poliformismo\ClassesAbstratas\bin\Debug\netcoreapp2.1\ClassesAbstratas.deps.json
+D:\Udemy\Seção 10 - Herança e Poliformismo\ClassesAbstratas\bin\Debug\netcoreapp2.1\ClassesAbstratas.runtimeconfig.json
+D:\Udemy\Seção 10 - Herança e Poliformismo\ClassesAbstratas\bin\Debug\netcoreapp2.1\ClassesAbstratas.runtimeconfig.dev.json
+D:\Udemy\Seção 10 - Herança e Poliformismo\ClassesAbstratas\bin\Debug\netcoreapp2.1\ClassesAbstratas.dll
+D:\Udemy\Seção 10 - Herança e Poliformismo\ClassesAbstratas\bin\Debug\netcoreapp2.1\ClassesAbstratas.pdb
+D:\Udemy\Seção 10 - Herança e Poliformismo\ClassesAbstratas\obj\Debug\netcoreapp2.1\ClassesAbstratas.csprojAssemblyReference.cache
+D:\Udemy\Seção 10 - Herança e Poliformismo\ClassesAbstratas\obj\Debug\netcoreapp2.1\ClassesAbstratas.csproj.CoreCompileInputs.cache
+D:\Udemy\Seção 10 - Herança e Poliformismo\ClassesAbstratas\obj\Debug\netcoreapp2.1\ClassesAbstratas.AssemblyInfoInputs.cache
+D:\Udemy\Seção 10 - Herança e Poliformismo\ClassesAbstratas\obj\Debug\netcoreapp2.1\ClassesAbstratas.AssemblyInfo.cs
+D:\Udemy\Seção 10 - Herança e Poliformismo\ClassesAbstratas\obj\Debug\netcoreapp2.1\ClassesAbstratas.dll
+D:\Udemy\Seção 10 - Herança e Poliformismo\ClassesAbstratas\obj\Debug\netcoreapp2.1\ClassesAbstratas.pdb
